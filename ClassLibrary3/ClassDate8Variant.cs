@@ -1,7 +1,5 @@
 ﻿using System;
 
-
-
 namespace ClassLibaryTPO8VAR
 {
     public class Smena
@@ -14,9 +12,7 @@ namespace ClassLibaryTPO8VAR
             if (date == null)
             {
                 date = DateTime.Now;
-            }
-            
+            }           
         }
     }
-}
-
+}// удалена пустая строчка
