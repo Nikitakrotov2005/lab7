@@ -7,7 +7,7 @@ using GFD;
 using Specialization;
 
 namespace ClassLibrary1
-{
+ {
     
     public class Var4
     {
@@ -28,4 +28,4 @@ namespace ClassLibrary1
         }
     }
     
-}
+ }
